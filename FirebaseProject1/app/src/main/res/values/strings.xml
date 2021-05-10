@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Project1</string>
+    <string name="save">Save</string>
+    <string name="add_note_to_be_saved_here">Add note to be saved here!</string>
+</resources>
